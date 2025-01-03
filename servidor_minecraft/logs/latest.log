@@ -34,3 +34,6 @@
 [21:57:35] [Server thread/INFO]: Jowineta lost connection: Timed out
 [21:57:35] [Server thread/INFO]: Jowineta left the game
 [21:57:35] [Server thread/WARN]: handleDisconnection() called twice
+[21:57:47] [Server thread/INFO]: Cronos342 lost connection: Timed out
+[21:57:47] [Server thread/INFO]: Cronos342 left the game
+[21:58:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
