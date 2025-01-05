@@ -66,3 +66,8 @@
 [21:47:24] [Server thread/INFO]: PabloGJ was slain by Jowineta
 [21:47:56] [Server thread/INFO]: Jowineta was slain by PabloGJ
 [21:48:23] [Server thread/INFO]: PabloGJ was shot by Stray
+[21:53:28] [Server thread/INFO]: Jowineta lost connection: Timed out
+[21:53:28] [Server thread/INFO]: Jowineta left the game
+[21:54:22] [Server thread/INFO]: PabloGJ lost connection: Timed out
+[21:54:22] [Server thread/INFO]: PabloGJ left the game
+[21:55:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@3e11968[id=9cb6ae8b-121f-3ba4-8521-85ceda769cae,name=Jowineta,properties={}] lost connection: Timed out
